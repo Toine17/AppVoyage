@@ -1,0 +1,149 @@
+id_périple,depart_etape,arrivee_etape,nb_etape_voyage,num_etape,kilomètres,denivele,Commentaire
+1,Dublin,Arklow,4,1,94,1670,
+1,Arklow,New Ross,4,2,105,1550,
+1,New Ross,Dungavan,4,3,97,1180,
+1,Dungavan,Cork,4,4,80,860,
+1,Dublin,Aughrim,5,1,78,1460,
+1,Aughrim,Bunclody,5,2,68,950,
+1,Bunclody,Waterford,5,3,79,1110,
+1,Waterford,Dungavan,5,4,73,910,
+1,Dungavan,Cork,5,5,80,860,
+2,Westport,Clifden,8,1,96,680,Traversée du Connemara du nord au sud en longeant lacs et montagnes
+2,Clifden,Galway,8,2,93,480,Longe la mer et les marais pour quitter le Connemara
+2,Galway,Lahinch,8,3,107,1180,Passage par les cliffs of Moher
+2,Lahinch,Tralee,8,4,100,880,Traversée d'un bras de mer en ferry
+2,Tralee,Killorglin,8,5,105,1080,Passage par la baie de Dingle et le magnifique Connor Pass
+2,Killorglin,Sneem,8,6,120,1680,"La grosse journée de vélo du périple, Dans le décor somptueux du Kerry"
+2,Sneem,Kenmare,8,7,113,1490,Passage par les principaux col du Kerry sauvage
+2,Kenmare,Bantry,8,8,92,1550,Les derniers cols de l'aventure dans un paysage toujours sauvage
+2,Westport,Clifden,10,1,96,680,Traversée du Connemara du nord au sud en longeant lacs et montagnes
+2,Clifden,Galway,10,2,93,480,Longe la mer et les marais pour quitter le Connemara
+2,Galway,Lisdoonvarna,10,3,87,990,PAssage par un paysage empiérré
+2,Lisdoonvarna,Listowel,10,4,95,840,Passage par les cliffs of Moher et traversée d'un bras de mer en ferry
+2,Listowel,Dingle,10,5,80,860,Passage par la baie de Dingle et le magnifique Connor Pass
+2,Dingle,Cahersiveen,10,6,100,950,
+2,Cahersiveen,Sneem,10,7,77,1260,"Longe la pointe du Kerry, paysage sauvage et désert"
+2,Sneem,Killarney,10,8,92,1070,
+2,Killarney,Glengarriff,10,9,94,1250,"Passage au Gap if Dunloe et au Healy Pass, 2 des cols emblématiques d'Irlande"
+2,Glengarriff,Bantry,10,10,38,800,Final du périple par les 2 dernières difficultés
+2,Westport,Clifden,13,1,83,720,
+2,Clifden,Galway,13,2,93,480,
+2,Galway,Lisdoonvarna,13,3,78,730,
+2,Lisdoonvarna,Killrush,13,4,72,630,
+2,Killrush,Tralee,13,5,63,510,Traversée en Ferry
+2,Tralee,Dingle,13,6,48,580,Passage par le Connor Pass
+2,Dingle,Killorglin,13,7,57,530,
+2,Killorglin,Portmagee,13,8,57,550,
+2,Portmagee,Sneem,13,9,62,1100,
+2,Sneem,Killarney,13,10,60,720,
+2,Killarney,Kenmare,13,11,72,830,
+2,Kenmare,Glengarriff,13,12,52,740,
+2,Glengarriff,Bantry,13,13,38,800,
+3,Thonon-les-Bains,Cluses,10,1,88,2470,
+3,Cluses,Flumet,10,2,96,3480,
+3,Flumet,Bourg-Saint-Maurice,10,3,93,3360,
+3,Bourg-Saint-Maurice,Termignon,10,4,105,3590,
+3,Termignon,Briançon,10,5,133,3850,
+3,Briançon,Guillestre,10,6,77,2330,
+3,Guillestre,Barcelonette,10,7,90,3370,
+3,Barcelonette,Saint-Sauveur-sur-Tinée,10,8,92,1850,
+3,Saint-Sauveur-sur-Tinée,Roquebillière,10,9,102,3320,
+3,Roquebillière,Nice,10,10,155,4660,
+3,Thonon-les-Bains,Samoëns,14,1,67,1720,
+3,Samoëns,Le Grand-Bornand,14,2,68,2630,
+3,Le Grand-Bornand,Les Saisies,14,3,69,2560,
+3,Les Saisies,Bourg-Saint-Maurice,14,4,74,2330,
+3,Bourg-Saint-Maurice,Val-d'Isère,14,5,55,2440,
+3,Val-d'Isère,Modane,14,6,75,1590,
+3,Modane,Briançon,14,7,90,2510,Pas de Col du Granon sur cette version. Vous pouvez faire 2 nuits à Briançon pour faire une boucle avec le col du Granon
+3,Briançon,Guillestre,14,8,77,2330,
+3,Guillestre,Embrun,14,9,49,1660,"Petite étape avec tout de même l'ascension jusqu'à Risoul poursuivit par une piste panoramique et une descente jusqu'à Embrun, place mythique our les triathlètes."
+3,Embrun,Barcelonette,14,10,59,2220,"Le jour du Parpaillon, col gravel très connu et apprécié par les cyclistes Offroad"
+3,Barcelonette,Saint-Sauveur-sur-Tinée,14,11,61,1750,"Ascension par un chemin accidenté jusquà la cime de la bonette, route bitumée la plus haute de France. Profitez des paysages lunaires au sommet."
+3,Saint-Sauveur-sur-Tinée,Valdeblore,14,12,109,3090,C'est la grosse journée du voyage. Vous descendrez les magnifiques gorges du Cians aujourd'hui avec sa roche rouge.
+3,Valdeblore,Sospel,14,13,73,1950,
+3,Sospel,Nice,14,14,89,2530,
+4,Meyronne,Gramat,5,1,33,620,"Vous traverserez Rocamadour sur cette première étape, courte étape de mise en jambe. Elle est difficile pour son faible kilométrage"
+4,Gramat,Cahors,5,2,60,720,Traversée du nord vers le sud du parc des causses du Quercy
+4,Cahors,Marcilhac-sur-Célé,5,3,60,960,Vous remonterez le Lot puis le Célé. Prenez le temps de faire le tour des ruelles de Saint-Cirq-Lapopie. Attention vous devrez certaineent pousser le vélo en haut du chemin du vieux Sauliac.
+4,Marcilhac-sur-Célé,Figeac,5,4,53,690,Passage par Capdenac le haut avant une dernière nuit dans la ville de Figeac
+4,Figeac,Meyronne,5,5,80,1110,Vous rejoindrez votre point de départ par quelques plus beaux vilages de France
+4,Meyronne,Cahors,3,1,93,1340,Passage par Rocamadour avant une grande traversée nord-sud du parc des causses du Quercy
+4,Cahors,Figeac,3,2,113,1650,"Vous quittez une ville médiéval pour une autre en remontant 2 rivières, le Lot et le Célé. Vous passerez aussi par quelques villages classés comme Saint-Cirq*Lapopie et Capdenac-le-haut."
+4,Figeac,Meyronne,3,3,80,1110,Vous rejoindrez votre point de départ par quelques plus beaux vilages de France
+5,Annecy,La Giettaz-en-Aravis,6,1,67,1690,Après avoir longé la rive ouest du lac vous aurez l'ascension du col de l'Arpettaz au sommet duquel vous prolongerez par la route de la soif 
+5,La Giettaz-en-Aravis,Saint-Gervais-les-Bains,6,2,42,1220,Passage sur les crêtes et vue sur le Mont-Blanc presque toute la journée
+5,Saint-Gervais-les-Bains,Contamines-Montjoie,6,3,26,1350,Après encore un long passage sur les crêtes ou vous pourrez presque toucher du doigt le Mont-Blanc vous dormirez au plus près de celui-ci
+5,Contamines-Montjoie,Les Saisies,6,4,31,1370,Vous vous chaufferez les jambes avec l'ascension du col du Joly qui porte bien son nom avant une deuxieme ascension qui vous emmenera jusqu'à la station de ski des Saisies.
+5,Les Saisies,Albertville,6,5,39,620,Journée tranquille avec 3 fois plus de dénivelé négatif que positif. Cette journée toboggan vous conduira jusqu'à la ville Olympique d'Albertville
+5,Albertville,Annecy,6,6,52,1300,2 cols routiers au programme. Tout d'abord le Tamié puis celui de la Forclaz au sommet duquel vous verrez le lac ce qui vous signifiera que vous êtes à la fin de votre voyage.
+5,Annecy,La Giettaz-en-Aravis,4,1,67,1690,Après avoir longé la rive ouest du lac vous aurez l'ascension du col de l'Arpettaz au sommet duquel vous prolongerez par la route de la soif 
+5,La Giettaz-en-Aravis,Contamines-Montjoie,4,2,67,2560,"Vous aurez 2 passages sur les crêtes et vue sur le Mont-Blanc presque toute la journée, vous pourrez presque le toucher dudoigt avant de dormir au plus près de lui"
+5,Contamines-Montjoie,Albertville,4,3,68,1970,Avec le très dur col du Joly en échauffement qui porte bien son nom vous continuerez sur les hauteurs jusqu'au Saisies avant une longue descente vers la ville Olympique d'Albertville
+5,Albertville,Annecy,4,4,52,1300,2 cols routiers au programme. Tout d'abord le Tamié puis celui de la Forclaz au sommet duquel vous verrez le lac ce qui vous signifiera que vous êtes à la fin de votre voyage.
+7,Argeles-sur-mer,Figueres,6,1,51,860,"Après une première ascension vous emprunterez l'ascension de la partie gravel col de Banyuls pour passer en Espagne et descendre par la route jusqu'à Figueres, ville de Salvador Dali."
+7,Figueres,Gerone,6,2,47,450,Profitez de cette journée courte et calme au niveau du denivelé pour arriver tôt à Gerone. Vous pourrez profiter pour visiter la vieille ville.
+7,Gerone,Saint-Feliu-de-Guixols,6,3,65,1030,Vous atteindrez la mer méditerranée et la longerez par la route panoramique
+7,Saint-Feliu-de-Guixols,L'Estartit,6,4,60,610,Vous vous ferez porter par le relief de la Costa Brava jusqu'à la station balnéaire de l'Estartit. Dernier jour calme de ce voyage profitez en pour vous économiser.
+7,L'Estartit,Cadaquès,6,5,68,740,Une première ascension gravel vous chauffera les jambes pour la traversée de la plaine jusqu'à la ville cannaux d'Empuriabrava. Puis vous serez dans les montagne russe de piste gravel le long de criques pour arriver dans la très belle ville côtière de Cadaquès pour la nuit.
+7,Cadaquès,Argeles-sur-mer,6,6,68,1470,Une journée ponctuée de montées descentes avec vue mer pour relier votre point de départ
+7,Argeles-sur-mer,Gérone,3,1,99,1160,Après une première ascension vous emprunterez l'ascension de la partie gravel col de Banyuls pour passer en Espagne et descendre par la route pour rejoindre la plaine et filer jusqu'à Gerone.
+7,Gérone,L'Estartit,3,2,124,1620,Vous rejoindrez la mer méditerranée que vous longerez jusqu'à la station balnéaire de l'Estartit en empruntant des routes panoramiques
+7,L'Estartit,Argeles-sur-mer,3,3,135,2210,Une journée ponctuée de montées descentes avec vue mer pour relier votre point de départ. Prenez quand même le temps de vous arrêtez boir un café dans la magnifque ville crique de Cadaquès avant de rejoindre votre point de départ pour cloturer ce voyage.
+8,Calgary,Canmore,19,1,128,1200,"Vous quitterez Calgary pour rejoindre les rocheuses jusqu'à Canmore, bille d'entrée des montagnes."
+8,Canmore,Elkford,19,2,152,1710,Première étape nord/sud dans les rocheuses. Vous emprunterez les grand chemins gravel de l'amérique du Nord au sein des maujestueuses montagnes. Vous passerez aussi par le plus haut col routier du pays
+8,Elkford,Fernie,19,3,72,490,Journée beaucoup plus simple que l'étape marathon de la veille. Vous contin uerai votre progression jusqu'à la ville de fernie
+8,Fernie,Cranbrook,19,4,107,1050,Vous traverserez la pleine de la Kootenay River pour rejoindre la ville de Cranbrook.
+8,Cranbrook,Creston,19,5,111,650,"Une journée principalement sur route, pas la plus agréable mais le passage est obligatoire pour rejoindre la petite ville de Creston."
+8,Creston,Nelson,19,6,123,1330,"Vous longerez le lac lac/rivière de Kootenay, jusquà prendre le ferry pour le traverser."
+8,Nelson,Castlegar,19,7,48,610,Une journée plus tranquille où vous pourrez récupérer en longeant la rivière puis en passant dans les montagnes
+8,Castlegar,Grand Forks,19,8,109,1400,Vous emprunterez une ancienne voie ferrée réhabilitée en piste cyclabe au coeur des montagnes et des différents tunnels
+8,Grand Forks,Osoyoos,19,9,124,1500,
+8,Osoyoos,Penticton,19,10,80,580,
+8,Penticton,Kelowna,19,11,63,1010,"Vous passez de villes en villes, les dernières grande ville avant Vancouver et la fin de votre voyage."
+8,Kelowna,Salmon Arm,19,12,112,1210,
+8,Salmon Arm,Kamloops,19,13,138,1520,
+8,Kamloops,Ashcroft,19,14,119,1680,
+8,Ashcroft,Lillooet,19,15,101,1210,
+8,Lillooet,Pemberton,19,16,99,1790,
+8,Pemberton,Whistler,19,17,32,690,"Une étape de repos pour rejoindre Whistler, ville Olympique"
+8,Whistler,Squamish,19,18,85,960,
+8,Squamish,Vancouver,19,19,69,1100,
+9,Strasbourg,Schiltach,5,1,82,820,
+9,Schiltach,Freigbur im Brisgau,5,2,79,1250,
+9,Freigbur im Brisgau,Mulhouse,5,3,85,1600,
+9,Mulhouse,Munster,5,4,80,1500,
+9,Munster,Strasbourg,5,5,91,80,
+6,Hendaye,Elizondo,5,1,57,1490,Première étap difficile avec beaucoup de chemins gravel en montagne
+6,Elizondo,Orreaga,5,2,60,1700,Deuxième étape difficile avec 2 grosses ascension bitumées
+6,Orreaga,Pampelune,5,3,77,1070,Une étape au profil descendant pour rejoindre la grande ville de Pampelune
+6,Pampelune,San Sebastian,5,4,95,850,"Vous relierez les 2 grandes villes en suivant la voie verte de Navarre, ancienne voie ferrée convertit en piste cyclable"
+6,San Sebastian,Hendaye,5,5,24,320,24km sur route pour terminée votre boucle
+10,Foix,Aunat,5,1,60,1260,Une première étape sans gros col mais pas plate pour autant pour rejoindre le coeur de la montagne ariégeoise.
+10,Aunat,Ax-les-Thermes,5,2,45,1400,"Vous franchirez le magnifique mais redoutable Port de Pailhères 15km à 8% avec son sommet à 2001m, le point culminant du périples. Seule scension de la journée puisque qu'après sa longue descente vous rejoindrez Tarascon sur Arièges par la vallée."
+10,Ax-les-Thermes,Aulus-les-Bains,5,3,82,1950,"Vous emprunterez une route secondaire avec une ascensio n pour eviter la nationale seule route de la vallée, puis passerez par le Port de Lers suivi par le col d'Agnès avant la dernière descente."
+10,Aulus-les-Bains,Saint Girons,5,4,61,970,"Uniquement le col de la Core au programme du jour. Etape moins difficile, vous pourrez prendre le temps pour ne pas épuiser le corps qui a déjà été mis à rude épreuve les jours précédents"
+10,Saint Girons,Foix,5,5,73,1300,"Dernier col pour la dernière journée. Le col de Port, pas le plus dur et pas le moins joli."
+10,Foix,Ax-les-Thermes,3,1,105,2640,"Début d'étape en montagnes russes avant d'arriver au Port de Pailhères qui sera le point culminant du périple avec ses 2001m d'altitude, La fin de l'étape se situe au bas de la descente."
+10,Ax-les-Thermes,Seix,3,2,101,1980,Vous passerez par le Port de Lers suivi par le col d'Agnès avant une longue descente dans la vallée pour rejoindre la fin de l'étape
+10,Seix,Foix,3,3,116,2220,Le col de la Core en début et le col de Port à la fin de cette dernière étape pour finir ce périple autour des montagnes Ariégeoise
+11,Briançon,Sestrière,4,1,43,1970,Vous parcourerez les différents sommets à plus de 2000m et leurs lacs pour arriver à Sestrière. Presque 100% gravel
+11,Sestrière,Susa,4,2,58,1220,"Vous longerez les crêtes par la ruta dell'assietta, anciène route militaire puis redescendrez par le colle delle finestre."
+11,Susa,Bardonecchia,4,3,53,2560,Dans cette version vous monterez jusqu'au Mont Jafferau et son sublime point de vue. Attention tout de même à sa descente très raide. SI vous le ne sentez pas vous pourrez le contourner sans y monter.
+11,Bardonecchia,Briançon,4,4,54,1630,Un premier col routier pas très difficile avan de monter au granon par un chemin gravel. De la vous redescendrez par la route jusqu'à la fin de votre voyage.
+12,Nice,Sospel,6,1,50,1220,
+12,Sospel,Tende,6,2,44,1400,
+12,Tende,Upega,6,3,52,1890,
+12,Upega,Triora,6,4,64,1920,
+12,Triora,Dolceacqua,6,5,71,2000,
+12,Dolceacqua,Nice,6,6,51,970,
+13,Bergen,Haga,10,1,66,850,
+13,Haga,Alvik,10,2,60,1340,
+13,Alvik,Eidjford,10,3,77,15470,
+13,Eidjford,Haugastolen,10,4,78,2080,
+13,Haugastolen,Flam,10,5,104,1420,
+13,Flam,Laerdalsoyri,10,6,56,1670,
+13,Laerdalsoyri,Tyinkrisset,10,7,69,1550,
+13,Tyinkrisset,Ovre Ardal,10,8,45,720,
+13,Ovre Ardal,Gaupne,10,9,73,1770,
+13,Gaupne,Sogndal,10,10,30,580,

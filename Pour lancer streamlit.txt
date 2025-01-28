@@ -1,0 +1,4 @@
+Pour lancer streamlit
+streamlit run "c:/Users/Utilisateur/Documents/app voyages/app_voyagesV2.py"
+
+taille photo voyage = 1000x563
